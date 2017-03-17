@@ -3,4 +3,4 @@
 Live preview: <a href="https://themalni.github.io/coffee_takeaway">Coffee Takeaway</a><br>
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/12295765/23827711/ecf1134c-06b9-11e7-9c80-77faa493aa39.png" width="650" alt="Coffee Takeaway"></p>
+<img src="https://cloud.githubusercontent.com/assets/12295765/24057753/bdba03a2-0b48-11e7-9419-301a62f6a125.png" width="700" alt="Coffee Takeaway"></p>
